@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Navigation Practice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="go_to_data_fragment">Go to Data Fragment</string>
+    <string name="go_to_home_fragment">Go to Home Fragment</string>
+    <string name="go_to_data_fragment11">Go to Data Fragment</string>
+    <string name="home_fragment22">Home Fragment</string>
+</resources>
